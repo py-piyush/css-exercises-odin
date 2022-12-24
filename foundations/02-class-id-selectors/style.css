@@ -1,0 +1,17 @@
+.bg-ltpink{
+    background-color: #e084c2;
+    font-family: Verdana, 'DejaVu Sans' sans-serif;
+}
+.lg-text{
+    font-size: 24px;
+}
+
+#two{
+    color:#0923ef;
+    font-size: 36px;
+}
+#four{
+    background-color: #84e0c2;
+    font-size: 24px;
+    font-weight: bold;
+}
